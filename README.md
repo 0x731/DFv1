@@ -3,4 +3,4 @@
 - This is tool useful for investigator Forensics 
 - Programmed in C++
 - Depends on windows cmd
-- Credits To <a href="https://github.com/omarmazin"> 
+- Credits To https://github.com/omarmazin
